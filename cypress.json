@@ -1,0 +1,9 @@
+{
+    "baseUrl": "http://www.thetestroom.com/webapp/",
+    "fixturesFolder": false,
+    "integrationFolder": "tests",
+    "supportFile": false,
+    "screenshotsFolder": "reports/screenshots",
+    "videosFolder": "reports/videos"
+
+}
