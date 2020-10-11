@@ -18,8 +18,6 @@
     "adoption:test": "cypress run --spec 'tests/adoption/*.spec.ts'",
     "contact:test": "cypress run --spec 'tests/contact/*.spec.ts'"
   },
-  "keywords": [],
-  "author": "",
+  "author": "Gizela Rakowska",
   "license": "ISC",
-  "description": ""
 }
